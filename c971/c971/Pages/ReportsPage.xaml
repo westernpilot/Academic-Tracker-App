@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="c971.Pages.ReportsPage"
+             Title="Generated Logs">
+    <StackLayout Padding="20">
+        <Button Text="Generate Logs" Clicked="OnGenerateLogsClicked" />
+
+        <SearchBar x:Name="searchBar" Placeholder="Search logs..." TextChanged="OnSearchBarTextChanged"/>
+
+        <CollectionView x:Name="logsCollectionView" SelectionMode="None">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="10">
+                        <Label Text="{Binding LogDate}" FontAttributes="Bold" />
+                        <Label Text="{Binding LogContent}" FontSize="Small" />
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{072EE422-E556-42DC-B414-518B63796140}|c971.Tests\\c971.Tests.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.tests\\emailvalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072EE422-E556-42DC-B414-518B63796140}|c971.Tests\\c971.Tests.csproj|solutionrelative:c971.tests\\emailvalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072EE422-E556-42DC-B414-518B63796140}|c971.Tests\\c971.Tests.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072EE422-E556-42DC-B414-518B63796140}|c971.Tests\\c971.Tests.csproj|solutionrelative:c971.tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072EE422-E556-42DC-B414-518B63796140}|c971.Tests\\c971.Tests.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.tests\\c971.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{072EE422-E556-42DC-B414-518B63796140}|c971.Tests\\c971.Tests.csproj|solutionrelative:c971.tests\\c971.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.shared\\c971.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|solutionrelative:c971.shared\\c971.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.shared\\models\\academicterm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|solutionrelative:c971.shared\\models\\academicterm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\termdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\termdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\pages\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\pages\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\coursedetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\coursedetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\assessmentdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\assessmentdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.shared\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|solutionrelative:c971.shared\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|solutionrelative:c971.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.shared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|solutionrelative:c971.shared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.shared\\models\\undergraduateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|solutionrelative:c971.shared\\models\\undergraduateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.shared\\models\\graduateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|solutionrelative:c971.shared\\models\\graduateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.shared\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|solutionrelative:c971.shared\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.shared\\models\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B49A4BA-5647-4800-9D16-4CB578DD02FE}|c971.Shared\\c971.Shared.csproj|solutionrelative:c971.shared\\models\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\c971.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\c971.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\pages\\reportspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\pages\\reportspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\pages\\reportspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\pages\\reportspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\termdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\termdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\pages\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\pages\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\coursedetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\coursedetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\assessmentdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\assessmentdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|c:\\users\\xo\\desktop\\new folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBFC42FF-2D0E-45C3-AA64-A17A9B9C9C14}|c971\\c971.csproj|solutionrelative:c971\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailValidationTests.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Tests\\EmailValidationTests.cs",
+              "RelativeDocumentMoniker": "c971.Tests\\EmailValidationTests.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Tests\\EmailValidationTests.cs",
+              "RelativeToolTip": "c971.Tests\\EmailValidationTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:14:42.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "c971.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Tests\\c971.Tests.csproj",
+              "RelativeDocumentMoniker": "c971.Tests\\c971.Tests.csproj",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Tests\\c971.Tests.csproj",
+              "RelativeToolTip": "c971.Tests\\c971.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T03:11:26.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Tests\\DatabaseTests.cs",
+              "RelativeDocumentMoniker": "c971.Tests\\DatabaseTests.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Tests\\DatabaseTests.cs",
+              "RelativeToolTip": "c971.Tests\\DatabaseTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:10:29.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\CourseDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "c971\\CourseDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\CourseDetailPage.xaml.cs",
+              "RelativeToolTip": "c971\\CourseDetailPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T00:43:19.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "c971\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\MainPage.xaml.cs",
+              "RelativeToolTip": "c971\\MainPage.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:50:13.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TermDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\TermDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "c971\\TermDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\TermDetailPage.xaml.cs",
+              "RelativeToolTip": "c971\\TermDetailPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T00:14:03.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUpPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\Pages\\SignUpPage.xaml.cs",
+              "RelativeDocumentMoniker": "c971\\Pages\\SignUpPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\Pages\\SignUpPage.xaml.cs",
+              "RelativeToolTip": "c971\\Pages\\SignUpPage.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T21:02:39.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\App.xaml.cs",
+              "RelativeDocumentMoniker": "c971\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\App.xaml.cs",
+              "RelativeToolTip": "c971\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:32:21.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AcademicTerm.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Models\\AcademicTerm.cs",
+              "RelativeDocumentMoniker": "c971.Shared\\Models\\AcademicTerm.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Models\\AcademicTerm.cs",
+              "RelativeToolTip": "c971.Shared\\Models\\AcademicTerm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:28:15.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "c971.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\c971.Shared.csproj",
+              "RelativeDocumentMoniker": "c971.Shared\\c971.Shared.csproj",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\c971.Shared.csproj",
+              "RelativeToolTip": "c971.Shared\\c971.Shared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T02:24:58.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssessmentDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\AssessmentDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "c971\\AssessmentDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\AssessmentDetailPage.xaml.cs",
+              "RelativeToolTip": "c971\\AssessmentDetailPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:34:19.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Database.cs",
+              "RelativeDocumentMoniker": "c971.Shared\\Database.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Database.cs",
+              "RelativeToolTip": "c971.Shared\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:27:09.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "c971.Shared\\Class1.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Class1.cs",
+              "RelativeToolTip": "c971.Shared\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:24:51.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Models\\User.cs",
+              "RelativeDocumentMoniker": "c971.Shared\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Models\\User.cs",
+              "RelativeToolTip": "c971.Shared\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:29:04.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UndergraduateUser.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Models\\UndergraduateUser.cs",
+              "RelativeDocumentMoniker": "c971.Shared\\Models\\UndergraduateUser.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Models\\UndergraduateUser.cs",
+              "RelativeToolTip": "c971.Shared\\Models\\UndergraduateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:28:57.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GraduateUser.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Models\\GraduateUser.cs",
+              "RelativeDocumentMoniker": "c971.Shared\\Models\\GraduateUser.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Models\\GraduateUser.cs",
+              "RelativeToolTip": "c971.Shared\\Models\\GraduateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:28:46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "c971.Shared\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Models\\Course.cs",
+              "RelativeToolTip": "c971.Shared\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:28:39.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Assessment.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Models\\Assessment.cs",
+              "RelativeDocumentMoniker": "c971.Shared\\Models\\Assessment.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971.Shared\\Models\\Assessment.cs",
+              "RelativeToolTip": "c971.Shared\\Models\\Assessment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:28:30.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "c971.csproj",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\c971.csproj",
+              "RelativeDocumentMoniker": "c971\\c971.csproj",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\c971.csproj",
+              "RelativeToolTip": "c971\\c971.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T23:46:00.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\MainPage.xaml",
+              "RelativeDocumentMoniker": "c971\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\MainPage.xaml",
+              "RelativeToolTip": "c971\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-27T23:49:45.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TermDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\TermDetailPage.xaml",
+              "RelativeDocumentMoniker": "c971\\TermDetailPage.xaml",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\TermDetailPage.xaml",
+              "RelativeToolTip": "c971\\TermDetailPage.xaml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-28T00:13:09.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReportsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\Pages\\ReportsPage.xaml",
+              "RelativeDocumentMoniker": "c971\\Pages\\ReportsPage.xaml",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\Pages\\ReportsPage.xaml",
+              "RelativeToolTip": "c971\\Pages\\ReportsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-08T21:58:15.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReportsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\Pages\\ReportsPage.xaml.cs",
+              "RelativeDocumentMoniker": "c971\\Pages\\ReportsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\Pages\\ReportsPage.xaml.cs",
+              "RelativeToolTip": "c971\\Pages\\ReportsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T21:58:32.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "c971\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\AppShell.xaml.cs",
+              "RelativeToolTip": "c971\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:32:57.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\AppShell.xaml",
+              "RelativeDocumentMoniker": "c971\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\AppShell.xaml",
+              "RelativeToolTip": "c971\\AppShell.xaml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-30T23:32:39.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SignUpPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\Pages\\SignUpPage.xaml",
+              "RelativeDocumentMoniker": "c971\\Pages\\SignUpPage.xaml",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\Pages\\SignUpPage.xaml",
+              "RelativeToolTip": "c971\\Pages\\SignUpPage.xaml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-08T21:02:12.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "c971\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\MauiProgram.cs",
+              "RelativeToolTip": "c971\\MauiProgram.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:36:19.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CourseDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\CourseDetailPage.xaml",
+              "RelativeDocumentMoniker": "c971\\CourseDetailPage.xaml",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\CourseDetailPage.xaml",
+              "RelativeToolTip": "c971\\CourseDetailPage.xaml",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAkwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-28T00:39:39.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AssessmentDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\AssessmentDetailPage.xaml",
+              "RelativeDocumentMoniker": "c971\\AssessmentDetailPage.xaml",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\AssessmentDetailPage.xaml",
+              "RelativeToolTip": "c971\\AssessmentDetailPage.xaml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-30T23:33:58.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\App.xaml",
+              "RelativeDocumentMoniker": "c971\\App.xaml",
+              "ToolTip": "C:\\Users\\xo\\Desktop\\New folder (2)\\d424_sif_eddine-main\\d424_sif_eddine-main\\c971\\c971\\App.xaml",
+              "RelativeToolTip": "c971\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-30T23:31:55.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

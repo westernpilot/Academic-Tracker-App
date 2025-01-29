@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="c971.Pages.MainPage"
+             Title="Terms">
+    <StackLayout Padding="20">
+        <SearchBar x:Name="searchBar" Placeholder="Search terms..." TextChanged="OnSearchBarTextChanged"/>
+        <CollectionView x:Name="termsCollectionView" SelectionMode="Single" SelectionChanged="OnTermSelected">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Orientation="Vertical" Padding="10">
+                        <Label Text="{Binding Title}" FontAttributes="Bold"/>
+                        <Label Text="{Binding DateRange}" FontSize="Small"/>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <Button Text="Add Term" Clicked="OnAddTermClicked" />
+    </StackLayout>
+</ContentPage>

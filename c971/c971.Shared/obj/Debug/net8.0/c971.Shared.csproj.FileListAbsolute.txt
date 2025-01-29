@@ -1,0 +1,36 @@
+C:\Users\xo\Downloads\capstone-main\capstone-main\c971\c971.Shared\bin\Debug\net8.0\c971.Shared.deps.json
+C:\Users\xo\Downloads\capstone-main\capstone-main\c971\c971.Shared\bin\Debug\net8.0\c971.Shared.dll
+C:\Users\xo\Downloads\capstone-main\capstone-main\c971\c971.Shared\bin\Debug\net8.0\c971.Shared.pdb
+C:\Users\xo\Downloads\capstone-main\capstone-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.csproj.AssemblyReference.cache
+C:\Users\xo\Downloads\capstone-main\capstone-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xo\Downloads\capstone-main\capstone-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.AssemblyInfoInputs.cache
+C:\Users\xo\Downloads\capstone-main\capstone-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.AssemblyInfo.cs
+C:\Users\xo\Downloads\capstone-main\capstone-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.csproj.CoreCompileInputs.cache
+C:\Users\xo\Downloads\capstone-main\capstone-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.dll
+C:\Users\xo\Downloads\capstone-main\capstone-main\c971\c971.Shared\obj\Debug\net8.0\refint\c971.Shared.dll
+C:\Users\xo\Downloads\capstone-main\capstone-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.pdb
+C:\Users\xo\Downloads\capstone-main\capstone-main\c971\c971.Shared\obj\Debug\net8.0\ref\c971.Shared.dll
+C:\Users\xo\Desktop\unit test\capstone-main\c971\c971.Shared\bin\Debug\net8.0\c971.Shared.deps.json
+C:\Users\xo\Desktop\unit test\capstone-main\c971\c971.Shared\bin\Debug\net8.0\c971.Shared.dll
+C:\Users\xo\Desktop\unit test\capstone-main\c971\c971.Shared\bin\Debug\net8.0\c971.Shared.pdb
+C:\Users\xo\Desktop\unit test\capstone-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.csproj.AssemblyReference.cache
+C:\Users\xo\Desktop\unit test\capstone-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xo\Desktop\unit test\capstone-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.AssemblyInfoInputs.cache
+C:\Users\xo\Desktop\unit test\capstone-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.AssemblyInfo.cs
+C:\Users\xo\Desktop\unit test\capstone-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.csproj.CoreCompileInputs.cache
+C:\Users\xo\Desktop\unit test\capstone-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.dll
+C:\Users\xo\Desktop\unit test\capstone-main\c971\c971.Shared\obj\Debug\net8.0\refint\c971.Shared.dll
+C:\Users\xo\Desktop\unit test\capstone-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.pdb
+C:\Users\xo\Desktop\unit test\capstone-main\c971\c971.Shared\obj\Debug\net8.0\ref\c971.Shared.dll
+C:\Users\xo\Desktop\New folder (2)\d424_sif_eddine-main\d424_sif_eddine-main\c971\c971.Shared\bin\Debug\net8.0\c971.Shared.deps.json
+C:\Users\xo\Desktop\New folder (2)\d424_sif_eddine-main\d424_sif_eddine-main\c971\c971.Shared\bin\Debug\net8.0\c971.Shared.dll
+C:\Users\xo\Desktop\New folder (2)\d424_sif_eddine-main\d424_sif_eddine-main\c971\c971.Shared\bin\Debug\net8.0\c971.Shared.pdb
+C:\Users\xo\Desktop\New folder (2)\d424_sif_eddine-main\d424_sif_eddine-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.csproj.AssemblyReference.cache
+C:\Users\xo\Desktop\New folder (2)\d424_sif_eddine-main\d424_sif_eddine-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xo\Desktop\New folder (2)\d424_sif_eddine-main\d424_sif_eddine-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.AssemblyInfoInputs.cache
+C:\Users\xo\Desktop\New folder (2)\d424_sif_eddine-main\d424_sif_eddine-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.AssemblyInfo.cs
+C:\Users\xo\Desktop\New folder (2)\d424_sif_eddine-main\d424_sif_eddine-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.csproj.CoreCompileInputs.cache
+C:\Users\xo\Desktop\New folder (2)\d424_sif_eddine-main\d424_sif_eddine-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.dll
+C:\Users\xo\Desktop\New folder (2)\d424_sif_eddine-main\d424_sif_eddine-main\c971\c971.Shared\obj\Debug\net8.0\refint\c971.Shared.dll
+C:\Users\xo\Desktop\New folder (2)\d424_sif_eddine-main\d424_sif_eddine-main\c971\c971.Shared\obj\Debug\net8.0\c971.Shared.pdb
+C:\Users\xo\Desktop\New folder (2)\d424_sif_eddine-main\d424_sif_eddine-main\c971\c971.Shared\obj\Debug\net8.0\ref\c971.Shared.dll
